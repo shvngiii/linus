@@ -1,0 +1,10 @@
+def kenya(county="kirinyaga"):
+ print("I am from" + county)
+
+kenya() 
+
+kenya( "kanairo")
+kenya( "kirinyaga")
+kenya( "peponi")
+
+  
